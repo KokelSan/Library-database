@@ -1,4 +1,4 @@
-# Library Database : items and users management
+<img src="Assets/Banner.png" alt="Banner.jpg"/>
 
 ## The project 🚀
 
